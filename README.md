@@ -30,6 +30,6 @@ Choose Member or Admin on the login screen and use any details. Try clocking in,
 
 `lib/data/` holds the models and demo repository. `lib/screens/` holds the member, administrator and kiosk screens. `test/` contains the existing unit and widget checks. Platform folders and the assets needed to run the app are included.
 
-## Prototype
+## Figma design
 
-Figma prototype link pending.
+[View the Figma design](https://www.figma.com/design/Ifrup7NhbPOujtqxHGDgQo/Akwaaba-DB).
